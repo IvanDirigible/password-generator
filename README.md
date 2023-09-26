@@ -7,15 +7,15 @@ This project allows you to generate custom passwords, including or excluding low
 
 ## Installation
 
-Simply double click the file named 'index,' or right-click and open with your browser of choice
-![Screenshot 2023-09-26 160926](https://github.com/IvanDirigible/password-generator/assets/143297573/ce83dbcf-21f0-40af-81ac-4c1136f04aee)
+Simply double click the file named 'index,' or right-click and open with your browser of choice.
+<br>![Screenshot 2023-09-26 160926](https://github.com/IvanDirigible/password-generator/assets/143297573/ce83dbcf-21f0-40af-81ac-4c1136f04aee)
 
-#Usage
+## Usage
 
 The purpose of this project is to generate passwords based on the criteria of your choice.
 Simply click the red 'Generate Password' button to get started.
-![Screenshot 2023-09-26 161241](https://github.com/IvanDirigible/password-generator/assets/143297573/7e136699-3292-4c05-9318-b82b0a7afc0a)
-Follow the prompts at the top of the screen, and you should have your password generated in no time at all.
+<br>![Screenshot 2023-09-26 161241](https://github.com/IvanDirigible/password-generator/assets/143297573/7e136699-3292-4c05-9318-b82b0a7afc0a)
+<br>Follow the prompts at the top of the screen, and you should have your password generated in no time at all.
 
 ## Credits
 
